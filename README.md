@@ -21,9 +21,11 @@
 </p>
 
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=sszmrezende@gmail.com" /></a> <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelrezendecunha/" /></a> <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/miguel.rezende.731/"/></a>
+ <p align="left">
+ <a href="mailto:sszmrezende@gmail.com" alt="Gmail" target="_blank">
+ <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&"></a> 
+ <a href="https://www.linkedin.com/in/miguelrezendecunha/" alt="Linkedin" target="_blank">
+ <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&"></a> 
+ <a href="https://www.facebook.com/miguel.rezende.731/" alt="Facebook" target="_blank">
+ <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&"> </a>
 
