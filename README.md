@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Hello, my name is Miguel, i am actually a full-stack student!<br>
+  Hello, my name is Miguel and i am actually a full-stack student!<br>
   At the moment i am studying Java, HTML, CSS, JS, SQL and Systems Archicteture.
 </p>
 
@@ -17,7 +17,7 @@
 
 
 <p align="left">
-  💌 If you want dont hesitate to send me a message at any of my social platforms! ⤵️
+  💌 If you want, dont hesitate to send me a message at any of my social platforms! ⤵️
 </p>
 
 
