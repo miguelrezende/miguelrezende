@@ -7,12 +7,12 @@
 
 
 <p align="left">
-  🦄 Linguagens: <strong>Java, C#, HTML, CSS, JS, SQL.</strong>
+  🧠 Skills: <strong>Java, C#, HTML, CSS, JS, SQL.</strong>
 </p>
 
 
 <p align="left">
-  💼 Ferramentas: <strong>InteliJ,Visual Studio Code, Visual Studio, PostgreSQL, Git, GitHub.</strong>
+  💼 Tools: <strong>InteliJ,Visual Studio Code, Visual Studio, PostgreSQL, Git, GitHub.</strong>
 </p>
 
 
